@@ -5,3 +5,13 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body{
+    background-image: linear-gradient(to top, #BF1304, #F2B705);
+    color: #590202;
+}
+
+ul{
+    list-style: square;
+    font-size: 1.5rem;
+}
